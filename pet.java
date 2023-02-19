@@ -1,4 +1,4 @@
-public class pet {
+public class Pet {
 
    protected String name;
    protected int age;
